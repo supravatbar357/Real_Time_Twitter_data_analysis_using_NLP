@@ -1,6 +1,4 @@
 # Real_Time_Twitter_data_analysis_using_NLP
-# Real-Time Twitter Data Analysis Using NLP
-
 ## 📌 Project Overview
 
 **Real-Time Twitter Data Analysis Using NLP** is a Python-based project designed to extract real-time tweets from Twitter and process them using Natural Language Processing techniques. The main goal is to prepare clean, structured, and insightful data that can later be used for sentiment analysis, trend identification, or machine learning models.
